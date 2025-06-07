@@ -2,6 +2,14 @@
 ## Economics and Management Student 
 ## Aspiring Analyst
 Welcome to my GitHub profile! Here, you’ll find projects and resources that showcase my skills in data analysis, visualization, and programming. My background combines a strong foundation in science and economics with hands-on technical expertise.
+💻 Technical Skills
+Programming & Analysis: Power BI, MS Excel, R, SQL,
+Project Management & Workflow: JIRA
+Visualization Tools: Power BI, Canva, PowerPoint
+Productivity & Business Tools: MS Office (Excel, Word, PowerPoint)
+Non-Technical Skills: Analytical Thinking, Communication, Leadership, Time Management
+🌐 Socials:
+
 <!--
 **PRAATEEKSHA-1/PRAATEEKSHA-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
