@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi, I'm Prateeksha
+🎓 Economics and Management Student
+💼 Aspiring Research Analyst
+Welcome to my GitHub profile! Here, you’ll find projects and resources that showcase my skills in data analysis, visualization, and programming. My background combines a strong foundation in science and economics with hands-on technical expertise.
 <!--
 **PRAATEEKSHA-1/PRAATEEKSHA-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
