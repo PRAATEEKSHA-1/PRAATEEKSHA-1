@@ -1,5 +1,5 @@
 # Hi, I'm Prateeksha 👋
-### 📜 Economics and Management Student 
+### 📜 Economics and Management 
 
 ### 💼 Aspiring Analyst
 Welcome to my GitHub profile! Here, you’ll find projects and resources that showcase my skills in data analysis, visualization, and programming. My background combines a strong foundation in science and economics with hands-on technical expertise
