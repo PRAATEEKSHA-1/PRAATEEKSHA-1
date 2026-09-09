@@ -1,24 +1,36 @@
 # Hi, I'm Prateeksha 👋
-### 📜 Economics and Management 
 
-### 💼 Aspiring Analyst
-Welcome to my GitHub profile! Here, you’ll find projects and resources that showcase my skills in data analysis, visualization, and programming. My background combines a strong foundation in science and economics with hands-on technical expertise
+### Data Analyst | Turning Raw Data into Business Decisions
+
+I'm an M.Sc. Economics & Management student (IIIT Lucknow) working as a Data Analyst, with hands-on project experience across retail/inventory analytics, customer behavior analysis, and predictive modeling. I like taking messy, real-world data and turning it into clear, decision-ready insights.
 
 ---
 
-### 💻 Technical Skills
-Programming & Analysis: Power BI, MS Excel, R, SQL,
-Project Management & Workflow: JIRA
-Visualization Tools: Power BI, Canva, PowerPoint
-Productivity & Business Tools: MS Office (Excel, Word, PowerPoint)
-Non-Technical Skills: Analytical Thinking, Communication, Leadership, Time Management
+### 🔧 Technical Skills
 
--------------------------------------------------------------------------------------------------
+**Programming & Analysis:** Python (Pandas, NumPy), SQL, Advanced Excel (Power Query, VLOOKUP/XLOOKUP, VBA), R
+**Visualization & BI:** Power BI (DAX), Excel Dashboards, PowerPoint
+**Statistics & Modeling:** Linear & Logistic Regression, Hypothesis Testing, ANOVA, Correlation Analysis, Time Series Analysis, K-Means Clustering
+**Other:** MIS Reporting, Data Validation & Cleaning, EDA, Feature Engineering, JIRA, Stakeholder Reporting
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/prateeksha@840)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prateeksha-singh-1738a7302)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prateekshasinghrajpoot@gmail.com)
+---
+
+### 📌 Featured Projects
+
+**[Solving Inventory Inefficiencies Using Advanced SQL](https://github.com/PRAATEEKSHA-1/Solving_Inventory_Inefficiencies_Using_Advanced_SQL-)**
+Built a normalized (3NF) inventory database for a retail chain and used advanced SQL (joins, window functions) + Power BI to identify stockout/overstock patterns, evaluate supplier performance, and forecast seasonal demand.
+
+**[Viewer Retention & Churn Analysis for OTT Streaming Platforms](https://github.com/PRAATEEKSHA-1/Viewer-Retention-Churn-Analysis-for-OTT-Streaming-Platforms)**
+Analyzed 33,000+ episode-level records across 23 behavioral features; used K-Means clustering and correlation analysis to identify what drives viewer drop-off vs. retention.
+
+**[Medical Insurance Cost Analysis](https://github.com/PRAATEEKSHA-1/Medical_Insurance_Cost_Analysis)**
+Analyzed 1,338 records to identify cost drivers; built Linear Regression (R²=0.84) and Random Forest (49% RMSE reduction) models to predict medical expenses and support risk segmentation.
+
+---
+
+### 🌐 Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/prateeksha-singh-1738a7302) • [Email](mailto:prateekshasinghrajpoot@gmail.com)
 
 -------------------------------------------------------------------------------------------------
 
