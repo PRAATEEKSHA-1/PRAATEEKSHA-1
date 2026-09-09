@@ -11,11 +11,11 @@ I'm a Data Analyst (M.Sc. Economics & Management, IIIT Lucknow) with hands-on ex
 ### 💻**Programming & Analysis:** 
     Python (Pandas, NumPy), SQL(Join, CTE, Window function, Subquery, Advanced Excel (Power Query, VLOOKUP/XLOOKUP, VBA)
 ### 📊**Visualization & BI:** 
-                              Power BI (DAX), Excel Dashboards, PowerPoint,Power Query
+    Power BI (DAX), Excel Dashboards, PowerPoint,Power Query
 ### 📈**Statistics & Modeling:** 
-                              Linear & Logistic Regression, Hypothesis Testing, ANOVA, Correlation Analysis, Time Series Analysis, VAR Modeling, Granger Causality, Stationarity Testing (ADF/KPSS)
+    Linear & Logistic Regression, Hypothesis Testing, ANOVA, Correlation Analysis, Time Series Analysis, VAR Modeling, Granger Causality, Stationarity Testing (ADF/KPSS)
 ### 🤝**Professional skills:** 
-                               MIS Reporting, Data Validation & Cleaning, EDA, Feature Engineering, Stakeholder Reporting
+     MIS Reporting, Data Validation & Cleaning, EDA, Feature Engineering, Stakeholder Reporting
 
 ---
 
