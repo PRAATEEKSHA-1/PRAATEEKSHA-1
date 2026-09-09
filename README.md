@@ -11,7 +11,7 @@ I'm a Data Analyst (M.Sc. Economics & Management, IIIT Lucknow) with hands-on ex
 ### **Programming & Analysis:** Python (Pandas, NumPy), SQL, Advanced Excel (Power Query, VLOOKUP/XLOOKUP, VBA), R
 ### **Visualization & BI:** Power BI (DAX), Excel Dashboards, PowerPoint
 ### **Statistics & Modeling:** Linear & Logistic Regression, Hypothesis Testing, ANOVA, Correlation Analysis, Time Series Analysis, K-Means Clustering
-### **Other:** MIS Reporting, Data Validation & Cleaning, EDA, Feature Engineering, JIRA, Stakeholder Reporting
+### **Other:** MIS Reporting, Data Validation & Cleaning, EDA, Feature Engineering, Stakeholder Reporting
 
 ---
 
