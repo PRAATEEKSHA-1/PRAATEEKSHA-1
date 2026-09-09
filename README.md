@@ -9,7 +9,7 @@ I'm a Data Analyst (M.Sc. Economics & Management, IIIT Lucknow) with hands-on ex
 ### 🔧 Technical Skills
 
 ### 💻**Programming & Analysis:** 
-                              Python (Pandas, NumPy), SQL(Join, CTE, Window function, Subquery, Advanced Excel (Power Query, VLOOKUP/XLOOKUP, VBA)
+    Python (Pandas, NumPy), SQL(Join, CTE, Window function, Subquery, Advanced Excel (Power Query, VLOOKUP/XLOOKUP, VBA)
 ### 📊**Visualization & BI:** 
                               Power BI (DAX), Excel Dashboards, PowerPoint,Power Query
 ### 📈**Statistics & Modeling:** 
